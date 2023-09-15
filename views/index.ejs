@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lilita+One&display=swap" rel="stylesheet">
+    <title>Document</title>
+    <style>
+
+        *{
+            font-family: 'Lilita One', cursive;
+        }
+
+        body{
+            display:flex;
+            flex-direction:column;
+            justify-content: center;
+            align-items: center;
+            font-family: myFirstFont;
+            background-color: dodgerblue;
+            color:white;
+        }
+        img{
+            width: 300px;
+            height: 300px;
+            border: black 5px solid;
+            border-radius:25px;
+            background-color:white;
+        }
+
+        button{
+            width: 50px;
+            height: 50px;
+        }
+        p{
+            font-size:25px;
+        }
+        
+  
+
+    </style>
+</head>
+<body>
+
+    <h1>Family Guy Characters</h1>
+
+    <img src="/images/<%=fams.image%>"></img>
+
+<div>
+    <p>Name: <%=fams.name %></p>
+    <p>Age: <%=fams.age %></p>
+    <p>Description: <%=fams.description %></p>
+</div>
+    <button id="BUTTO" type="submit" onclick="location.replace('/')">Back</button>
+    
+</body>
+</html>

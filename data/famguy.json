@@ -1,0 +1,68 @@
+[
+    {
+        "id":"1",
+        "name":"Stewie",
+        "age":"2",
+        "description":"A young baby born from Lois and Peter who has a weird British accent, his best friend is the dog Brian and he enjoys making inventions and is a reformed evil villain also kinda fruity.",
+        "image":"StewieGriffin.jpg"
+    }
+,
+    {
+        "id":"2",
+        "name":"Peter",
+        "age":"43",
+        "description":"A middle aged man that works at a brewery and has to deal with his family. He is not that smart but that doesn't stop him from having a fun time.",
+        "image":"peter.jpg"
+    }
+    ,
+    {
+        "id":"3",
+        "name":"Chris",
+        "age":"16",
+        "description":"A young lad from Boston son of Peter and Lois, he attends Quahog high as a junior.He likes to wear his hat, has very peculiar hobbies.",
+        "image":"chris.jpg"
+    }
+    ,
+    {
+        "id":"4",
+        "name":"Glenn (Quagmire)",
+        "age":"61",
+        "description":"Quagmire is a respected pilot and good neighbor. He is one of peter's best friends in the show and he has a way with the ladies.",
+        "image":"glenn.jpg"
+    },
+
+    
+    
+    {
+        "id":"5",
+        "name":"Joe",
+        "age":"46",
+        "description":"Joe was a respected cop, now he's just a cop. He became paralyzed after an undercover job went wrong. He is a family man with two kids adn he doesn't let his disability hold him back.",
+        "image":"joe.jpg"
+    },
+    
+    {
+        "id":"6",
+        "name":"Al Harrington",
+        "age":"36",
+        "description":"Al Harrington is the owner, president and CEO of Al Harrington's Wacky Waving Inflatable Arm-Flailing Tubeman Emporium and Warehouse', located off of Route 2 in Weekapaug, Rhode Island.",
+        "image":"al.jpg"
+    },
+
+    {
+        "id":"7",
+        "name":"Johnathan Herbert",
+        "age":"113",
+        "description":"Herbert is the local veteran in Quahog. He fought in World War 2 as a fighter pilot, and is now living out his retirement in Quahog with his dog Jessie. He is widely known and loved by all of the community.",
+        "image":"herb.jpg"
+    },
+
+
+    {
+        "id":"8",
+        "name":"Cleveland Brown",
+        "age":"42",
+        "description":"Cleveland has been peter's best-friend since he was a teenager, he also moved for about 4 years to try and make his own tv show, and in that time he remarried to his childhood crush after his first wife divorced him. He has 2 sons and a daughter. ",
+        "image":"cleve.png"
+    }
+]
